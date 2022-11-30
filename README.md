@@ -1,7 +1,7 @@
 # algo_trading_crypto_binance
 
-Scalping Strategy #10: MA Crossover + RSI \n
-15 SMA \n
+Scalping Strategy #10: MA Crossover + RSI <br/>
+15 SMA <br/>
 45 SMA \n
 5 period RSI \n
 \n
